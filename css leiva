@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(assets/textura-grunge-sobre-fondo-oscuro_1258-14137.avif); 
+    background-size: 600px; 
+    background-position: center ; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+#container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header h1{
+    background: rgb(0, 0, 0);
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+    border-bottom: 10px solid rgb(0, 0, 0); 
+    font-size: 50px;
+}
+nav{
+    background: white;
+    height: 50px;
+    border-bottom: 5px;
+    text-align: left;
+}
+
+nav ul li{
+    float:left;
+    list-style: none;
+    margin: 5;
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+}
+.clear{
+    clear: both;
+}
+
+.article{
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(255, 6, 6);
+    display: flex;
+    align-items: center; 
+    line-height: 25px;
+    flex: 1; 
+    padding: 15px; /
+}
+
+.content {
+    flex: 1;
+    padding: 30px; 
+}
+.content h2 {
+    font-size: 50px;
+    line-height: 60px;
+}
+.foquislei{
+    width: 100%;
+    margin: 0% auto;
+}
