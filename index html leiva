@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>Mi Blog</title>
+
+</head>
+<body>
+    <div id="container">
+        <header>
+            <h1> OSVALDO LEIVA</h1>
+        </header>
+        <div class="clear"></div>
+        <section  id="contenido">
+
+
+<article class="article">
+    <div class="content">
+    <h2>¿Quién soy?</h2>
+    <p>
+    Mi nombre es Osvaldo David Leiva, tengo 22 años y soy estudiante de la carrera Licenciatura en Sistemas de Información. <br>
+    También jugador "profesional" de fútbol, albañil y bartender de un bar local. <br>
+    Me gusta mucho pensar proyectando al futuro, preparandome para lo que me puede llegar a tocar vivir en algun momento de mi vida, queriendo vivir la vida día a día pero a su vez, estar preparado por cualquier eventual suceso.
+    </p>
+    </div>
+        <img src="assets/Imagen de WhatsApp 2023-11-16 a las 16.55.28_2547d7f2.jpg" alt="Descripción de la imagen" style="width: 400px; height: 300px;">
+    </article>
+
+
+    <article class="article">
+        <div class="content">
+            <h2>¿Qué suelo hacer?</h2>
+            <p>En lo ya antes mencionado, resalta la parte donde se escribe "soy jugador profesional".
+            Me crié jugando al fútbol desde los 3 años, en el Club Atlético Uruguay hasta la actualidad. <br>
+            Además de jugar al fútbol, también soy albañil en una empresa familiar, formada por mi papá y yo, je.
+            Trabajo con él desde los 16 años, y siempre busque darle una ayuda para que no tenga que esforzarce mucho, por sus problemas de salud. <br>
+            En la actualidad, tengo 22 y sigo ayudándolo siempre que tengo un tiempo rebuscado después de tanto estudio, trabajo y entrenamiento. <br>
+            Y además de ser futbolista y albañil, también soy bartender en HOUSE GARAGE, me gusta el rubro y también la fiesta je. 
+            </p>
+    </div>
+        <img src="assets/Imagen de WhatsApp 2023-11-16 a las 16.55.28_31c46b5a.jpg" alt="Descripción de la imagen" style="width: 400px; height: 400px;">
+    </article>
+
+            <article class="article">
+                <div class="content">
+                    <h2>En mis tiempos libres... </h2>
+                    <p> En los tiempos libres, me gusta mucho tomar mate, suelo ponerme a buscar cosas para hacer en mi depto, como busca algo para remodelar/mejorar, pensar en qué quedaria mejor, etc... <br>
+                        Además, soy hincha loco de River Plate, asi que si algún finde no juego, trato de comprar entradas para ir a verme a River porque es algo que me encanta, poder ir a la cancha y olvidar un par de problemas (la mayoria para evitar el estudio je). 
+                        
+                    </p>
+                </div>
+                <img src="assets/river.jpg" alt="Descripción de la imagen" style="width: 400px; height: 300px;">
+            </article>
+
+            <article class="article">
+                <div class="content">
+                    <h2>¿Qué aspiro a ser?</h2>
+                <p> Mi sueño, (y el de mis viejos en general) es el de que yo me pueda recibir y tener el primer título en la familia. <br> 
+                Lo que a mi me gustaria es comprender los códigos de programación, pero me gustaria más poderme especializar en el área de diseño, ya que es lo que más me ha llamado la atención.</p>
+                </div>
+                <img src="assets/ux.png" alt="Descripción de la imagen" style="width: 500px; height: 250px;">
+                </article>
+
+        </section>
+        <a href=""></a>
+</body>
